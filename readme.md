@@ -2,16 +2,6 @@
 
 **OpenServer** - это портативная программная среда, созданная специально для веб-разработчиков с учётом их рекомендаций и пожеланий.
 
-## Скачивание установщика OpenServer (946мб)
-
-* [Официальный сайт OpenServer](https://ospanel.io/download/) (~ 4 часа безудержного веселья)
-
-* [Диск Mail.ru](https://cloud.mail.ru/public/e6oo/ZHB1mtuNf)
-
-* [Диск Google](https://drive.google.com/file/d/1ZHdC6FttbPiGWgIF9v0ljIaKgYzDl85x/view?usp=sharing)
-
-* [Диск Яндекс](https://disk.yandex.ru/d/1I1uOonHOKOdcQ)
-
 ## Установка OpenServer
 > После установки OpenServer будет занимать около 6-7гб
 
